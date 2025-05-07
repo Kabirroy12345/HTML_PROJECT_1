@@ -52,5 +52,6 @@ Responsive image usage
 Website structuring and linking pages
 
 📬 Contact
-Made with ❤️ by Kabir Roy
+Made with ❤️ 
+by Kabir Roy
 Feel free to connect via GitHub
